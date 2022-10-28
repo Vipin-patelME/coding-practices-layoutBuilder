@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.nav-cont {
+  height: 25vh;
+  width: 100%;
+  background-color: #475569;
+  padding-top: 5px;
+}
+.nav-layout-cont {
+  list-style: none;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
